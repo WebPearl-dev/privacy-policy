@@ -1,8 +1,3 @@
-<style>
-  .page-header { display: none !important; }
-  .main-content { padding-top: 40px !important; }
-</style>
-
 ---
 title: ""
 ---
