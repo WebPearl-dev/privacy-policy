@@ -1,6 +1,6 @@
----
-title: ""
----
+<style>
+  h1:first-of-type { display: none; }
+</style>
 # Privacy Policy for BugOff (Insectenscanner)
 
 **Last updated: 31-05-2026**
