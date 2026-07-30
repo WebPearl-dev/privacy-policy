@@ -1,3 +1,6 @@
+<style>
+  h1:first-of-type { display: none; }
+</style>
 # Privacy Policy for BonMaatje
 
 **Last updated: 30-07-2026**
