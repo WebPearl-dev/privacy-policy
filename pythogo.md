@@ -1,6 +1,6 @@
----
-title: ""
----
+<style>
+  h1:first-of-type { display: none; }
+</style>
 # Privacy Policy and Medical Disclaimer for PythoGo
 
 **Last updated: 30-07-2026**
