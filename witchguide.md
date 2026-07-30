@@ -1,6 +1,3 @@
----
-title: ""
----
 # Privacy Policy for WitchGuide
 
 Last updated: 30-07-2026
