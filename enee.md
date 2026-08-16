@@ -13,10 +13,10 @@ WebPe@rl ("us", "we", or "our") operates the mobile application E-nee (the "App"
 
 By using the App, you agree to the collection and use of information in accordance with this policy.
 
-### 1. In-App Purchases, VIP Modules and Promo Codes (Adapty)
-To process premium feature validation (such as unlocking the VIP Pro care module or advanced filters), handle in-app purchases, and process promotional codes, the App utilizes third-party services. These services collect specific technical data over encrypted connections (HTTPS):
+### 1. In-App Purchases, VIP Modules and Promo Codes
+To process premium feature validation (such as unlocking advanced filters), handle in-app purchases, and process promotional codes, the App utilizes third-party services. These services collect specific technical data over encrypted connections (HTTPS):
 
-* **Adapty (Adapty Tech Inc.):** To manage premium access levels and promo codes, Adapty processes:
+* **Google Play Billing:** To manage premium access levels and promo codes, the system processes:
   * *Purchase History / Transaction Overview:* To verify if your VIP Pro status is active.
   * *Device and Other IDs:* A pseudonymous identifier generated to link the purchase status to your specific device.
   * *Diagnostics and Crash Logs:* To monitor, identify, and resolve technical issues or failures within the purchase process in real-time.
@@ -53,10 +53,10 @@ WebPe@rl ("wij", "ons" of "onze") beheert de mobiele applicatie E-nee (de "App")
 
 Door de App te gebruiken, gaat u akkoord met het verzamelen en gebruiken van informatie in overeenstemming met dit beleid.
 
-### 1. In-App Aankopen, VIP-modules en Promotiecodes (Adapty)
-Voor het aanbieden, beheren en valideren van premium functionaliteiten (zoals het ontgrendelen van de VIP Pro verzorgingsmodule of aanvullende filters), in-app aankopen en promotiecodes, maakt de App gebruik van diensten van derden. Deze diensten verwerken specifieke technische gegevens via beveiligde verbindingen (HTTPS):
+### 1. In-App Aankopen, VIP-modules en Promotiecodes
+Voor het aanbieden, beheren en valideren van premium functionaliteiten (zoals aanvullende filters), in-app aankopen en promotiecodes, maakt de App gebruik van diensten van derden. Deze diensten verwerken specifieke technische gegevens via beveiligde verbindingen (HTTPS):
 
-* **Adapty (Adapty Tech Inc.):** Voor het beheren van premiumtoegang en promotiecodes verwerkt Adapty:
+* **Google Play Billing:** Voor het beheren van premiumtoegang en promotiecodes worden de volgende gegevens verwerkt:
   * *Transactieoverzicht / Aankoopgeschiedenis:* Om te controleren of uw VIP Pro-status actief is.
   * *Apparaat- of andere ID's:* Een pseudonieme identificatiecode om de aankoopstatus veilig te koppelen aan uw specifieke toestel.
   * *Diagnostische gegevens en crashlogboeken:* Om technische fouten of storingen in het betaalproces realtime op te sporen en op te lossen.
@@ -79,8 +79,9 @@ Wij hechten grote waarde aan uw privacy.
 De App maakt gebruik van Google Play Services voor technische functionaliteiten en de distributie van de App. Google kan bepaalde technische apparaatgegevens verzamelen in overeenstemming met hun eigen privacybeleid.
 
 ### 6. Privacy van kinderen
-Onze App verzamelt geen direct herleidbare persoonsgegevens en is veilig te gebruiken door personen van alle ages, inclusief kinderen jonger dan 13 jaar.
+Onze App verzamelt geen direct herleidbare persoonsgegevens en is veilig te gebruiken door personen van alle leeftijden, inclusief kinderen jonger dan 13 jaar.
 
 ### 7. Contact met ons opnemen
 Als u vragen of opmerkingen heeft over dit privacybeleid, kunt u contact opnemen met WebPe@rl via:
 * **Per e-mail:** webpearl@proton.me
+
