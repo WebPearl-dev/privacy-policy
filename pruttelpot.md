@@ -1,3 +1,4 @@
+<style> h1:first-of-type { display: none; } </style> <style> h1:first-of-type { display: none; } </style>
 # Privacy Policy for PruttelPot
 Last updated: 23-08-2026
 
