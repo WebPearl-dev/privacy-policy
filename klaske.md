@@ -1,4 +1,4 @@
-
+<style> h1:first-of-type { display: none; } </style>
 # Privacy Policy voor Klaske haar Kookworkshops
 **Laatst bijgewerkt: 06-09-2026**
 
